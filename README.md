@@ -1,4 +1,4 @@
-desing
+design
 ======
 
 Savka Design
